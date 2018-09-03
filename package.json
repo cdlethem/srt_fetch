@@ -1,0 +1,14 @@
+{
+  "name": "srt-fetch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Colin Lethem",
+  "license": "ISC",
+  "dependencies": {
+    "podio-js": "^1.6.1"
+  }
+}
